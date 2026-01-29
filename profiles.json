@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "star wars": {
+      "source": "",
+      "destination": ""
+    }
+  },
+  "settings": {
+    "backup_interval": 60,
+    "max_backups": 100
+  }
+}

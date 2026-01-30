@@ -2,6 +2,7 @@
 
 A simple tool that automatically backs up your game saves at regular intervals. No more losing hours of progress because you forgot to save or the game crashed or the save got overwritten by a corrupted save.
 
+[![Download Release](https://img.shields.io/badge/Download-autosave__manager.exe-blue)](https://github.com/taciturn2021/autosave-backup/releases/download/v1.0/autosave_manager.exe)
 ## What It Does
 
 - Creates zip backups of any folder you point it at
@@ -13,6 +14,7 @@ A simple tool that automatically backs up your game saves at regular intervals. 
 ## Installation
 
 Grab the latest `autosave_manager.exe` from the Releases page and put it wherever you want. That's it.
+
 
 The app creates a `profiles.json` file next to the exe when you first run it. This is where your profiles and settings are stored. Keep these two files together - if you move the exe somewhere else, bring the json file with it or you'll lose your settings.
 
